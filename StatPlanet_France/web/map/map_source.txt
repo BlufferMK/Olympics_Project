@@ -1,0 +1,4 @@
+
+This map is a simplified / reduced size version of the free shapefile map of Indonesia available from:
+
+http://maplibrary.org/stacks/gadm/IDN/index.php.
